@@ -1526,9 +1526,9 @@ function robotHTML( header ) { //, widthProgram, heightProgram ) {
 '<span id="levelMenu"></span>' +
 '<span id="starDiv"><img id="bigStar" src="./media/big-star.gif" align="top" width="35" height="34">' +
 '<span id="totalStars">12</span></span></h1></td><td align="right">' +
-'<a href="http://kpolyakov.spb.ru/school/robots/blockly.htm">' +
+'<a href="index.html">' +
 '<img src="./media/link.gif" class="link"/></a> ' +
-'<a href="http://kpolyakov.spb.ru/school/blockly/rob-blockly.htm">kpolyakov.spb.ru</a>' +
+'<a href="index.html">Вернуться к заданиям</a>' +
 '</td></tr></table>' +
 '<table width="100%"><tr><td><table width="400"><tr><td>' +
 '<span id="prevVar">' +
