@@ -1,0 +1,17 @@
+.container-header {
+    padding-left: 0;
+}
+.page-title {
+    margin-bottom: 20px;
+}
+
+.task-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.task-list-item {
+    margin-bottom: 5px;
+}
