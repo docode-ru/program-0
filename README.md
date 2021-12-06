@@ -4,35 +4,38 @@
 
 ### Робот
 
-* [1\. Линейные алгоритмы](robot_linear.html)
-* [2\. Условный оператор](robot_if.html)
-* [3\. Циклы ПОВТОРИТЬ N РАЗ](robot_loop.html)
-* [4\. Циклы ПОКА](robot_while.html)
-* [5\. Условный оператор и циклы](robot_ifloop.html)
-* [6\. Процедуры](robot_proc.html)
-* [7\. Переменные](robot_var.html)
-* [8\. Процедуры с параметрами](robot_param.html)
-* [Задачки](robot_book5.html)
+* [1\. Линейные алгоритмы](https://docode-ru.github.io/program-0/robot_linear.html)
+* [2\. Условный оператор](https://docode-ru.github.io/program-0/robot_if.html)
+* [3\. Циклы ПОВТОРИТЬ N РАЗ](https://docode-ru.github.io/program-0/robot_loop.html)
+* [4\. Циклы ПОКА](https://docode-ru.github.io/program-0/robot_while.html)
+* [5\. Условный оператор и циклы](https://docode-ru.github.io/program-0/robot_ifloop.html)
+* [6\. Процедуры](https://docode-ru.github.io/program-0/robot_proc.html)
+* [7\. Переменные](https://docode-ru.github.io/program-0/robot_var.html)
+* [8\. Процедуры с параметрами](https://docode-ru.github.io/program-0/robot_param.html)
+* [Задачки](https://docode-ru.github.io/program-0/robot_book5.html)
 
 ### Черепаха
 
-* [1\. Линейные алгоритмы](turtle_linear.html)
-* [2\. Циклы ПОВТОРИТЬ N раз](turtle_loop.html)
-* [3\. Вложенные циклы](turtle_nested.html)
-* [4\. Процедуры](turtle_proc.html)
-* [5\. Переменные](turtle_var.html)
-* [6\. Процедуры с параметрами](turtle_param.html)
+* [1\. Линейные алгоритмы](https://docode-ru.github.io/program-0/turtle_linear.html)
+* [2\. Циклы ПОВТОРИТЬ N раз](https://docode-ru.github.io/program-0/turtle_loop.html)
+* [3\. Вложенные циклы](https://docode-ru.github.io/program-0/turtle_nested.html)
+* [4\. Процедуры](https://docode-ru.github.io/program-0/turtle_proc.html)
+* [5\. Переменные](https://docode-ru.github.io/program-0/turtle_var.html)
+* [6\. Процедуры с параметрами](https://docode-ru.github.io/program-0/turtle_param.html)
 
 ### Чертежник
 
-* [1\. Изучаем координаты](drawer_coords.html)
-* [2\. Изучаем векторы](drawer_vector.html)
-* [3\. Циклы ПОВТОРИТЬ N раз](drawer_loop.html)
-* [4\. Вложенные циклы](drawer_nested.html)
-* [5\. Процедуры](drawer_proc.html)
-* [6\. Переменные](drawer_var.html)
-* [7\. Процедуры с параметрами](drawer_param.html)
+* [1\. Изучаем координаты](https://docode-ru.github.io/program-0/drawer_coords.html)
+* [2\. Изучаем векторы](https://docode-ru.github.io/program-0/drawer_vector.html)
+* [3\. Циклы ПОВТОРИТЬ N раз](https://docode-ru.github.io/program-0/drawer_loop.html)
+* [4\. Вложенные циклы](https://docode-ru.github.io/program-0/drawer_nested.html)
+* [5\. Процедуры](https://docode-ru.github.io/program-0/drawer_proc.html)
+* [6\. Переменные](https://docode-ru.github.io/program-0/drawer_var.html)
+* [7\. Процедуры с параметрами](https://docode-ru.github.io/program-0/drawer_param.html)
 
+### Скачать
+
+Скачать оффлайн версию: [https://github.com/docode-ru/program-0/archive/refs/heads/main.zip](https://github.com/docode-ru/program-0/archive/refs/heads/main.zip)
 
 #### Лицензия
 
