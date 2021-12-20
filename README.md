@@ -5,6 +5,9 @@
 ### Сайт
 Перейдите по ссылке на главную страницу с заданиями: https://docode-ru.github.io/program-0/
 
+### Видео решение заданий
+Видео курс с разбором заданий: https://docode.ru/course/programmirovanie-s-nulia-igraia-v-blockly/
+
 ### Робот
 
 * [1\. Линейные алгоритмы](https://docode-ru.github.io/program-0/robot_linear.html)
